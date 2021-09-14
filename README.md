@@ -22,13 +22,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="code" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/code-icon.svg" />]
 [<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/html-icon.svg" />]
 [<img align="left" alt="CSS3" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/css-icon.svg" />]
 [<img align="left" alt="bootstrap" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/bs-icon.svg" />]
-[<img align="left" alt="javascript" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/js-icon.svg" />][webdevplaylist]
-[<img align="left" alt="React" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/react-icon.svg" />][reactplaylist]
-[<img align="left" alt="API" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/api-icon.svg" />][reactplaylist]
+[<img align="left" alt="javascript" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/js-icon.svg" />]
+[<img align="left" alt="react" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/react-icon.svg" />]
+[<img align="left" alt="api" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/api-icon.svg" />]
+[<img align="left" alt="git" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/git-icon.svg" />]
+[<img align="left" alt="github" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/github-icon.svg" />]
 
 <!-- [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
