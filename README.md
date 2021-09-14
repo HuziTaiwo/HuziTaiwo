@@ -5,7 +5,7 @@
 
 ## I'm a Frontend Develeoper and User Interface Designer!
 
-- 🤠 I'm currently working as an intern at [Zuri.team][website]!
+- 🤠 I'm currently working as an intern at [Zuri internship website](https://internship.zuri.team)!
 - 🌱 I'm currently learning everything
 - 👯 I'm looking forward to collaborate with other Developers and Designers
 - 🎮 I really love coding, skateboarding and playing games
