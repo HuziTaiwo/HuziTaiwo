@@ -16,15 +16,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="code" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/code-icon.svg" />]
-[<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/html-icon.svg" />]
-[<img align="left" alt="CSS3" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/css-icon.svg" />]
-[<img align="left" alt="bootstrap" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/bs-icon.svg" />]
-[<img align="left" alt="javascript" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/js-icon.svg" />]
-[<img align="left" alt="react" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/react-icon.svg" />]
-[<img align="left" alt="api" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/api-icon.svg" />]
-[<img align="left" alt="git" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/git-icon.svg" />]
-[<img align="left" alt="github" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/github-icon.svg" />]
+<img align="left" alt="code" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/code-icon.svg" />
+<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/html-icon.svg" />
+<img align="left" alt="CSS3" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/css-icon.svg" />
+<img align="left" alt="bootstrap" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/bs-icon.svg" />
+<img align="left" alt="javascript" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/js-icon.svg" />
+<img align="left" alt="react" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/react-icon.svg" />
+<img align="left" alt="api" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/api-icon.svg" />
+<img align="left" alt="git" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/git-icon.svg" />
+<img align="left" alt="github" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/github-icon.svg" />
 
 <br />
 <br />
