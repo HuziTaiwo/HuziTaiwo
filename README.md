@@ -1,27 +1,30 @@
-### Hi there, welcome to my world, I'm Hussen Taiwo famously know as codemainac
+<h1 align="center">Hi 👋, I'm Hussen "Handsome" Taiwo</h1>
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://huziapp.netlify.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<h3 align="center">A passionate frontend developer and software engineer 🔥</h3>
 
-## I'm a Frontend Develeoper and User Interface Designer!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huzitaiwo" alt="huzitaiwo" /></a> </p>
 
-- 🤠 I'm currently working to perfect my web development skills 
-- 🌱 I'm currently learning everything
-- 👯 I'm looking forward to collaborate with other Developers and Designers
-- 🎮 I really love coding, skateboarding and playing games
+- 🌱 I’m currently learning **html, css, javascript, sass, react, firebase, nodejs**
 
-<!-- ### Connect with me: -->
+<h3 align="left">Connect with me:</h3>
 
-<br />
+<p align="left">
 
-### Languages and Tools:
+<a href="https://twitter.com/huzitaiwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="huzitaiwo" height="30" width="40" /></a>
 
-<img align="left" alt="HTML5" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/html-icon.svg" />
-<img align="left" alt="CSS3" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/css-icon.svg" />
-<img align="left" alt="bootstrap" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/bs-icon.svg" />
-<img align="left" alt="javascript" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/js-icon.svg" />
-<img align="left" alt="react" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/react-icon.svg" />
-<img align="left" alt="api" src="https://raw.githubusercontent.com/HuziTaiwo/codemaniac-profile/master/brands-icons/api-icon.svg" />
+<a href="https://linkedin.com/in/huzitaiwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzitaiwo" height="30" width="40" /></a>
 
-<br />
-<br />
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzitaiwo&show_icons=true&locale=en&layout=compact" alt="huzitaiwo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huzitaiwo&show_icons=true&locale=en" alt="huzitaiwo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huzitaiwo&" alt="huzitaiwo" /></p>
+
+
+
